@@ -1,11 +1,12 @@
 ... Exercíco do Sauce-Demo ...
-Information:
+
+1. Information:
   * Project name
   * Designed by
   * Test environment
   * Delivery date
 
-Login:
+2. Login:
   * Login com sucesso
   * Login com username inválido
   * Login com password inválida
@@ -18,20 +19,20 @@ Login:
   * Login com credenciais válidas com espaço no final
   * Login com credenciais válidas com espaço no meio,no lugar do underline
 
-Add to Cart:
+3. Add to Cart:
   * Add item to cart
   * Remover um item do carrinho na tela inventory.html
   * Adicionar múltiplos itens ao carrinho
   * Remover um item do carrinho na tela cart.html
   * Adicionar múltiplos itens ao carrinho e remover apenas um
 
-Filter:
+4. Filter:
   * A to Z
   * Z to A
   * Price low to high
   * Price high to low
 
-Checkout:
+5. Checkout:
   * Fazer  checkout com credenciais válidas
   * Fazer checkout sem colocar sip/postal code
   * Fazer checkout sem colocar last name
@@ -41,7 +42,7 @@ Checkout:
   * Fazer checkout apenas colocando zip/postal code
   * Fazer checkout com credenciais válidas e com vários itens para comprar
 
-Navigation Menu:
+6. Navigation Menu:
   * All items
   * About
   * Logout
